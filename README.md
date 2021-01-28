@@ -1,2 +1,2 @@
 # NeuroDiverse
-Dynamic neuron diversification of neural networks
+Dynamic diversification of neural networks
